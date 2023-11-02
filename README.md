@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey there! 👋 I'm Akash.
 
-<!--
-**akash-shaw/akash-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🌱 I'm passionate about web development and am currently on a journey to become a Full-Stack Web Developer.
+- 💻 I enjoy building apps and websites that not only look great but also make a positive impact on the world.
+- 👯 I'm always open to collaborating on projects that aim to bring about meaningful change.
 
-Here are some ideas to get you started:
+### Get in Touch
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shaw-akash/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- 🚀 I work with technologies like HTML, CSS, JavaScript, and more.
+
+### Projects
+- 🔗 Check out some of my recent projects:
+  - [Say Radiography](https://akash-shaw.github.io/say-radiography)
+  - [My Gaming Journey](https://playwithakash.netlify.app/)
+
+Feel free to connect, collaborate, or simply say hello! Let's build amazing things together. 😄
