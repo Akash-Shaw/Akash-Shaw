@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Akash.
+## Hey there! 👋 I'm Akash
 
 ### About Me
 - 🌱 I'm passionate about web development and am currently on a journey to become a Full-Stack Web Developer.
