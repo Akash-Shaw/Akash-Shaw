@@ -7,7 +7,7 @@
 
 ### Get in Touch
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/shaw-akash/).
-- 💬 Feel free to DM me on [Discord](https://discord.com/users/hooman1x)
+- 💬 Feel free to DM me on [Discord](https://discord.com/users/hooman1xv).
 
 ### Tech Stack
 - 🚀 I work with technologies like HTML, CSS, JavaScript, and more.
