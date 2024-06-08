@@ -14,6 +14,7 @@
 
 ### Projects
 - 🔗 Check out some of my recent projects:
+  - [Sakas Strategies](https://sakasstrategies.netlify.app)
   - [Say Radiography](https://akash-shaw.github.io/say-radiography)
   - [My Gaming Journey](https://playwithakash.netlify.app/)
 
